@@ -6,3 +6,5 @@ SE2 LLP
 
 Conflict at local
 Conflict at remote
+
+Conflict at remote 2
