@@ -12,3 +12,4 @@ Conflict at remote 2
 Add feature 1
 
 conflict at remote in feature
+Conflict at server on feature1
