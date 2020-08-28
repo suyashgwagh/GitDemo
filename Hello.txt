@@ -8,3 +8,5 @@ Conflict at local
 Conflict at remote
 
 Conflict at remote 2
+
+Add feature 1
